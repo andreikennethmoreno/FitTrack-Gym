@@ -7,8 +7,6 @@
 - Sqlite
 - Tkinter Designer
 
-# Gym Management System
-
 ## Description of System
 
 This Tkinter-based GUI application is designed for efficient gym management, encompassing both login functionality and gym member management.
