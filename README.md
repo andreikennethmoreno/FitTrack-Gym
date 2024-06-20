@@ -2,12 +2,12 @@
 
 ![image](https://github.com/andreikennethmoreno/Gym_Track/assets/124364969/93545634-cfec-4904-ad6f-a21c649809e4)
 
-##Made with 
+## Made with 
 - Tkinter
 - Sqlite
 - Tkinter Designer
 
-Description of System : 
+## Description of System : 
 
 The  Fit Track Gym Management System  is a Python-based terminal application designed to manage gym memberships and log entries efficiently. This system allows gym administrators to add and remove members, track membership durations, and log gym sessions for both members and non-members. Key features include:
 
