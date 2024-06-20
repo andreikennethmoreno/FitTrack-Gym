@@ -22,6 +22,8 @@ The  Fit Track Gym Management System  is a Python-based terminal application des
 
 - Interactive Interface: A simple command-line interface guides users through different functionalities, making it user-friendly for gym administrators to manage their operations.
 
+- Search Input Box: This query should help you find relevant information and examples of gym management software that features an easy-to-use command-line interface for administrators.
+
 
 The system is implemented using Python's datetime and tabulate libraries, ensuring accurate date handling and well-organized data presentation.
 
